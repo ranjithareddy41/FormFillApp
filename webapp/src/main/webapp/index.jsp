@@ -27,6 +27,13 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
 
+     <label for="Father Name"><b>Father Name</b></label>
+     <input type="text" placeholder="Enter Father Name" name="Father Name" id="Father Name" required>
+     <br>
+
+
+
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
