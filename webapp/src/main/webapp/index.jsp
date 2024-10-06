@@ -14,6 +14,11 @@
     <br>
 
 
+    <label for="ACC NO"><b>ACC NO</b></label>
+    <input type="text" placeholder="Enter ACC NO" name="ACC NO" id="ACC NO" required>
+    <br>
+
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
