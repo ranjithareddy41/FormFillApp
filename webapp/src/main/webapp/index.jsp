@@ -30,7 +30,10 @@
      <label for="Father Name"><b>Father Name</b></label>
      <input type="text" placeholder="Enter Father Name" name="Father Name" id="Father Name" required>
      <br>
-
+    
+     <label for="son"><b>Son Name</b></label>
+     <input type="text" placeholder="Son Name" name="son" id="son" required>
+     <br>
 
 
 
